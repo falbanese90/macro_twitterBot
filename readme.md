@@ -1,4 +1,4 @@
-This script extracts Macro Events from ![Trading Economics](https://www.tradingeconomics.com/calendar),
+This script extracts Macro Events from [Trading Economics](https://www.tradingeconomics.com/calendar),
 executes java to select current week and and most important headlines,
 and posts event to twitter on a weekly basis.
 
