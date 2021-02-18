@@ -1,0 +1,10 @@
+DE ZEW Economic Sentiment Index
+JP Balance of Trade
+GB Inflation Rate YoY
+CA Inflation Rate YoY
+US Retail Sales MoM
+US FOMC Minutes
+JP Inflation Rate YoY
+GB Gfk Consumer Confidence
+CN Loan Prime Rate 1Y
+DE Ifo Business Climate
