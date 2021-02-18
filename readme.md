@@ -10,7 +10,7 @@ for Selenium to access.
 
 It will also require a profile with the twitter API and the necessary access codes.
 
-##I am looking to expand on this by:
+I am looking to expand on this by:
 
 1. Adding dates and times to the headlines.
 2. Having the bot tweet the result when the headline actually prints.
