@@ -1,10 +1,10 @@
-DE-ZEW Economic Sentiment Index
-JP-Balance of Trade
-GB-Inflation Rate YoY
-CA-Inflation Rate YoY
-US-Retail Sales MoM
-US-FOMC Minutes
-JP-Inflation Rate YoY
-GB-Gfk Consumer Confidence
-CN-Loan Prime Rate 1Y
-DE-Ifo Business Climate
+AU - NAB Business Confidence
+GB - Claimant Count Change
+US - Inflation Rate YoY
+US - Core Inflation Rate YoY
+AU - Westpac Consumer Confidence Index
+AU - Westpac Consumer Confidence Change
+GB - Inflation Rate YoY
+CA - Inflation Rate YoY
+JP - Balance of Trade
+US - Retail Sales MoM
